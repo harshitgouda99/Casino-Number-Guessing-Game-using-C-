@@ -41,6 +41,7 @@ playGame()	Handles betting, guessing & results
 showRules()	Displays game rules
 showStats()	Shows wins, losses & balance
 getRandom()	Generates random number based on level
+
 🔹 Winning & Losing Logic
 ---------------------------------------
 Win → balance increases by bet × level
@@ -50,7 +51,3 @@ Lucky Bonus → +200 if number is 7
 🔚 Conclusion
 ----------------------------------------------
 This project demonstrates random number generation, conditional logic, functions, and menu-driven programming in C. It simulates a basic casino betting game and helps understand game logic, loops, and user interaction.
-
-Lose → bet amount deducted
-
-Lucky Bonus → +200 if number is 7
